@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advin Suryavanshi</h1>
-<h3 align="center">A passionate frontend developer from India. Who thinks he can code.</h3>
+<h3 align="center">A passionate developer from India. Who thinks he can code.</h3>
 
 - 📝 I regularly write articles on [https://hashnode.com/@addysuya](https://hashnode.com/@addysuya)
 
