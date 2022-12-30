@@ -10,11 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/advin600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="advin600" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/advin-suryavanshi-26563a177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/advin-suryavanshi-26563a177/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/advinsuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/advinsuryavanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/@advin_suryavanshi06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@advin_suryavanshi06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/advin-suryavanshi-26563a177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/advin-suryavanshi-26563a177/" height="30" width="40" /></a>
+<a href="https://kaggle.com/advinsuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/advinsuryavanshi" height="30" width="40" /></a>
+<a href="https://instagram.com/advin_suryavanshi06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@advin_suryavanshi06" height="30" width="40" /></a>
 <a href="https://hashnode.com/@addysuya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@addysuya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@addysuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@addysuryavanshi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@addysuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@addysuryavanshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/advin600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="advin600" height="30" width="40" /></a>
 </p>
 
