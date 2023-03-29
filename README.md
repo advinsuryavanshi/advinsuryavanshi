@@ -14,7 +14,7 @@
 <a href="https://kaggle.com/advinsuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/advinsuryavanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/advin_suryavanshi06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@advin_suryavanshi06" height="30" width="40" /></a>
 <a href="https://hashnode.com/@addysuya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@addysuya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@addysuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@addysuryavanshi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrOcP5_i6jtONMOFE7MLy-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@addysuryavanshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/advin600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="advin600" height="30" width="40" /></a>
 </p>
 
